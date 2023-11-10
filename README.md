@@ -1,15 +1,12 @@
 <h1 align="center"> 
 <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+I'm+Chirag+Bansal!;&center=true&size=30">
-  </a>
-</h1>
+  </a></h1>
 <h3 align="center">A passionate Full Stack(Mern) developer from India</h3>
-
-<img align = "right" alt = "Coding" width="400" src = "
-https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">
-
-
+<img align="right" alt = "Coding" width="400" src = "https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47mjjaeyfci1tdb8h1s8ukj5tpwslucyrplizw1zmi&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bansalchirag&label=Profile%20views&color=0e75b6&style=flat" alt="bansalchirag" /> </p>
+
+- 🌱 I’m currently learning **React(Advanced)**
 
 - 💬 Ask me about **Mern Stack Development**
 
