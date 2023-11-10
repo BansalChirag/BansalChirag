@@ -6,7 +6,7 @@
 <h3 align="center">A passionate Full Stack(Mern) developer from India</h3>
 
 <img align = "right" alt = "Coding" width="400" src = "
-https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47mjjaeyfci1tdb8h1s8ukj5tpwslucyrplizw1zmi&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bansalchirag&label=Profile%20views&color=0e75b6&style=flat" alt="bansalchirag" /> </p>
