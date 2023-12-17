@@ -1,14 +1,21 @@
-<h1 align="center"> 
-<a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+I'm+Chirag+Bansal!;&center=true&size=30">
-  </a></h1>
-<h3 align="center">A passionate Full Stack(Mern) developer from India</h3>
-<img align="right" alt = "Coding" width="400" src = "https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47mjjaeyfci1tdb8h1s8ukj5tpwslucyrplizw1zmi&ep=v1_gifs_search&rid=giphy.gif&ct=g">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bansalchirag&label=Profile%20views&color=0e75b6&style=flat" alt="bansalchirag" /> </p>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">, I'm Chirag Bansal <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="35"/></h1>
+
+<div align="center">
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;MERN+stack+developer;Web+Developer;React+Developer;Quick+learner&color=cyan&center=true" />
+</div>
+
+<div width="100%" display="flex">
+<h3 align="left">- I'm a Full Stack Web Developer with a specialization in MERN stack, focusing on writing clean and efficient code 👨‍🎓</h3>
+<h3 align="left">- Currently looking for a new opportunity 🤖</h3>
+</div>
+<br/>
+
+## 🙋‍♂️ About Me
 
 - 🌱 I’m currently learning **React(Advanced)**
 
 - 💬 Ask me about **Mern Stack Development**
+- 👯 I’m looking to work as Full Stack Web Developer
 
 - 📫 How to reach me **bansalchirag091@gmail.com**
 
