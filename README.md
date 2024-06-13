@@ -12,7 +12,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **React(Advanced)**
+- 🌱 I’m currently learning **NextJS**
 
 - 💬 Ask me about **Mern Stack Development**
 - 👯 I’m looking to work as Full Stack Web Developer
